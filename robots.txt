@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zigzag.webart.work/sitemap.xml
+Sitemap: https://zigzag.hotelup.work/sitemap.xml
